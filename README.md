@@ -1,4 +1,4 @@
-# Sapm-and-Fake-spam-message-detection-framework-using-ML
+# Spam-and-Fake-spam-message-detection-framework-using-ML
 Collected and analyzed data from YouTube comments on sports, education, and cooking
 videos.
 Conducted data preprocessing, including handling missing data, to ensure data quality.
